@@ -39,8 +39,8 @@
   <code> <img height=50 src="https://content.techgig.com/thumb/msid-67459262,width-860,resizemode-4/Python-is-the-programming-language-of-the-year-for-2018.jpg?50999" /> </code>
   <code> <img height="50" src="https://lh3.googleusercontent.com/iKHbqfOA22cBvWvdnGoi165ZxDy6lqWHDIrmDGORZU0NvNX_CgnexW8OgKmDVd5sQongQwCwsqsnu3SJCCPySlozJFYnJRE=s600"> </code>
   <code> <img height="50" src="https://cdn-media-1.freecodecamp.org/images/VQhi-KgyeBh6jegrDc2zaLOGxsBWq0Bw5dNq"> </code>
-  <code> <img height="50" src="https://solutionsreview.com/cloud-platforms/files/2019/03/oie_616356bDgvYh4s.jpg"> </code>
-  <br /><br />	 
+  <br /><br />
+  <code> <img height="50" src="https://solutionsreview.com/cloud-platforms/files/2019/03/oie_616356bDgvYh4s.jpg"> </code>	 
   <code> <img height="50" src="https://miro.medium.com/max/1131/1*hS5OgFx1J8wiLErNy5uAIQ.png"> </code>
   <code> <img height="50" src="https://crowdbotics.ghost.io/content/images/2020/08/React-Native-Featured-Image.png"> </code>
   </p>
